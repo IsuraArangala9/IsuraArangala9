@@ -1,4 +1,4 @@
-<h1 align="center">Hellow there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, &nbsp &nbsp I'm Isura Lakshan Arangala</h1>
+<h1 align="center">Hellow there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, &nbsp I'm Isura Lakshan Arangala</h1>
 
 <div align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -12,6 +12,7 @@
     <img src="https://profile-counter.glitch.me/IsuraArangala9/count.svg"/>
   </div> 
 </p>
+
 
 <table align="center">
 <tr border="none">
